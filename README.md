@@ -1,7 +1,7 @@
 ### Hi there
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=condy0919&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condy0919&theme=buefy&hide=ruby&count_private=true&show_icons=true&layout=compact)
+![My GitHub](https://github-readme-stats.vercel.app/api?username=include-yy&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=include-yy&theme=buefy&hide=ruby&count_private=true&show_icons=true&layout=compact)
 
 <!--
 **condy0919/condy0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
